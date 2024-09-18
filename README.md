@@ -8,5 +8,5 @@ A repo for terraform learning from Abhishek classes
 >
 <h6> Provider Block In Terraform </h6>
 > - provider "aws" {
-> -   region = "us-east-1"
-> - }
+>    region = "us-east-1"
+>  }
